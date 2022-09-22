@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, this iss Gurudatt Puranik</h1>
+<h1 align="center">Hi 👋, this is Gurudatt Puranik</h1>
 <h3 align="center">Aspiring web developer</h3>
 
 - 🔭 I’m currently working on **an E-Commerce application, Unveiled**
