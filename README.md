@@ -1,32 +1,17 @@
-<h1 align="center">Hi 👋, this is Gurudatt Puranik</h1>
-<h3 align="center">Aspiring web developer</h3>
+####  
+![ ](https://document-export.canva.com/Jqvmc/DAFNJxJqvmc/14/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220924T080019Z&X-Amz-Expires=41628&X-Amz-Signature=1819de2374d026a42136dcb12719e3f688973755af36c5c126008b1d2c57fc98&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2024%20Sep%202022%2019%3A34%3A07%20GMT)
 
-- 🔭 I’m currently working on **an E-Commerce application, Unveiled**
+I am a 23-year-old blogger, stock-market trader, and aspiring web developer. I love making responsive web applications based on React JS. Tailwind CSS is ♥
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning Node JS 
+- 👯 I’m looking to collaborate on open source projects on React 
+- 💬 Ask me about React JS, Tailwind CSS 
+- 📫 How to reach me: gurudattpuranik35@gmail.com 
 
-- 👯 I’m looking to collaborate on **open-source projects based on React JS**
 
-- 🤝 I’m looking for help with **state management using redux-toolkit on user authentication**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gurudattpuranik25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://gurudattpuranik.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gurudatt-puranik-0933b0195//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PuranikGurudatt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gurudatt-puranik-portfolio.netlify.app/)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/gurudattpuranik25](https://github.com/gurudattpuranik25)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurudattpuranik25)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📝 I regularly write articles on [https://gurudattpuranik.hashnode.dev/](https://gurudattpuranik.hashnode.dev/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gurudattpuranik25&show_icons=true)  
 
-- 💬 Ask me about **React JS, Tailwind CSS**
-
-- 📫 How to reach me **https://twitter.com/PuranikGurudatt**
-
-- 📄 Know about my experiences [https://flowcv.me/gurudattpuranik](https://flowcv.me/gurudattpuranik)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/puranikgurudatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puranikgurudatt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gurudatt-puranik-0933b0195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurudatt-puranik-0933b0195/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@gurudattpuranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gurudattpuranik" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurudattpuranik25&show_icons=true&locale=en&layout=compact" alt="gurudattpuranik25" /></p>
